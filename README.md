@@ -4,7 +4,7 @@
   Keep it minimal and on-brand — your name + role, your portfolio's visual language.
 -->
 <p align="center">
-  <img src="./assets/banner.png" alt="Felix — Senior Frontend Engineer" width="100%" />
+  <img src="./assets/banner.svg" alt="Felix — Senior Frontend Engineer" width="100%" />
 </p>
 
 <h1 align="center">Hi, I'm Felix 👋</h1>
