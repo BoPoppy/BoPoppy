@@ -1,0 +1,22 @@
+<svg viewBox="0 0 1280 320" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Felix Vo — Senior Frontend Engineer">
+  <rect width="1280" height="320" fill="#050607"/>
+  <line x1="0" y1="72" x2="1280" y2="72" stroke="#1A1D21" stroke-width="1"/>
+  <circle cx="40" cy="40" r="5" fill="#2A2F36"/><circle cx="60" cy="40" r="5" fill="#2A2F36"/><circle cx="80" cy="40" r="5" fill="#2A2F36"/><text x="640.0" y="45" text-anchor="middle" font-family="ui-monospace, 'SF Mono', SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace" font-size="12" letter-spacing="2" fill="#5A626B">felix-vo.dev — zsh</text>
+  <path d="M20 34 L20 20 L34 20" fill="none" stroke="#2A2F36" stroke-width="1"/>
+  <path d="M1260 34 L1260 20 L1246 20" fill="none" stroke="#2A2F36" stroke-width="1"/>
+  <path d="M20 286 L20 300 L34 300" fill="none" stroke="#2A2F36" stroke-width="1"/>
+  <path d="M1260 286 L1260 300 L1246 300" fill="none" stroke="#2A2F36" stroke-width="1"/>
+  <text x="96.0" y="120" font-family="ui-monospace, 'SF Mono', SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace" font-size="18" fill="#3FB950" font-weight="700">$</text>
+  <text x="117.7" y="120" font-family="ui-monospace, 'SF Mono', SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace" font-size="18" fill="#8A9099" font-weight="400">whoami</text>
+  <text x="96.0" y="154" font-family="ui-monospace, 'SF Mono', SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace" font-size="18" fill="#5A626B" font-weight="700">›</text>
+  <text x="117.7" y="154" font-family="ui-monospace, 'SF Mono', SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace" font-size="18" fill="#F2F3F5" font-weight="400">Felix Vo — Senior Frontend Engineer</text>
+  <text x="96.0" y="188" font-family="ui-monospace, 'SF Mono', SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace" font-size="18" fill="#3FB950" font-weight="700">$</text>
+  <text x="117.7" y="188" font-family="ui-monospace, 'SF Mono', SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace" font-size="18" fill="#8A9099" font-weight="400">stack --core</text>
+  <text x="96.0" y="222" font-family="ui-monospace, 'SF Mono', SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace" font-size="18" fill="#5A626B" font-weight="700">›</text>
+  <text x="117.7" y="222" font-family="ui-monospace, 'SF Mono', SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace" font-size="18" fill="#8A9099" font-weight="400">React · Next.js · TypeScript · Tailwind</text>
+  <text x="96.0" y="256" font-family="ui-monospace, 'SF Mono', SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace" font-size="18" fill="#3FB950" font-weight="700">$</text>
+  <text x="117.7" y="256" font-family="ui-monospace, 'SF Mono', SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace" font-size="18" fill="#8A9099" font-weight="400">status</text>
+  <text x="96.0" y="290" font-family="ui-monospace, 'SF Mono', SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace" font-size="18" fill="#5A626B" font-weight="700">›</text>
+  <text x="117.7" y="290" font-family="ui-monospace, 'SF Mono', SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace" font-size="18" fill="#3FB950" font-weight="400">available for senior &amp; lead roles</text>
+  <rect x="480.1" y="275" width="9.8" height="18" fill="#F2F3F5"/>
+</svg>
