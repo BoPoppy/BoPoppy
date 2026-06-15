@@ -44,3 +44,7 @@ Badminton, videography (DJI Osmo Action), and color-grading footage in Premiere 
 ---
 
 <p align="center"><i>Frontend engineer who likes to tinker with infra and agents.</i></p>
+
+<p align="center">
+  <img src="./assets/system-den.gif" alt="Felix — Senior Frontend Engineer" width="100%" />
+</p>
